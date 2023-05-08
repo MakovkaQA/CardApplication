@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/w6w5a4t5nqpa556g?svg=true)](https://ci.appveyor.com/project/MakovkaQA/cardapplication)
